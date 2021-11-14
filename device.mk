@@ -45,7 +45,8 @@ PRODUCT_PACKAGES += \
     init.safailnet.rc \
     fstab.mt6765 \
     ktweak.sh \
-    set_zram.sh 
+    set_zram.sh \
+    perf_profile.sh 
 
 # HIDL
 PRODUCT_PACKAGES += \
